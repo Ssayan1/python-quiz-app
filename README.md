@@ -1,7 +1,6 @@
 # 🧠 Python Quiz App (Tkinter GUI)
 
-A simple object-oriented quiz application built using Python and tkinter. It pulls questions from a list of dictionaries and quizzes the user with a graphical interface.
-
+An interactive quiz application built in Python using **Object-Oriented Programming** and a graphical interface (Tkinter). Users can test their knowledge with multiple-choice questions loaded from a data source.
 ---
 
 ## 📸 Screenshot
@@ -16,6 +15,8 @@ A simple object-oriented quiz application built using Python and tkinter. It pul
 - Interactive true/false quiz
 - Automatic score tracking
 - Easy to extend with more questions
+- Score tracking throughout the quiz
+- Easily extendable question set
 
 ---
 
